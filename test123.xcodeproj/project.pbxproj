@@ -15,6 +15,7 @@
 		48BEA706212FF625002B0EA7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BEA705212FF625002B0EA7 /* main.m */; };
 		48BEA710212FF625002B0EA7 /* test123Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BEA70F212FF625002B0EA7 /* test123Tests.m */; };
 		48BEA71B212FF625002B0EA7 /* test123UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BEA71A212FF625002B0EA7 /* test123UITests.m */; };
+		48BEA72C21302622002B0EA7 /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 48BEA72B21302622002B0EA7 /* HomeViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,8 @@
 		48BEA716212FF625002B0EA7 /* test123UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test123UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		48BEA71A212FF625002B0EA7 /* test123UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = test123UITests.m; sourceTree = "<group>"; };
 		48BEA71C212FF625002B0EA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		48BEA72A21302622002B0EA7 /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		48BEA72B21302622002B0EA7 /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +108,8 @@
 				48BEA6F7212FF61A002B0EA7 /* AppDelegate.m */,
 				48BEA6F9212FF61A002B0EA7 /* ViewController.h */,
 				48BEA6FA212FF61A002B0EA7 /* ViewController.m */,
+				48BEA72A21302622002B0EA7 /* HomeViewController.h */,
+				48BEA72B21302622002B0EA7 /* HomeViewController.m */,
 				48BEA6FC212FF61A002B0EA7 /* Main.storyboard */,
 				48BEA6FF212FF625002B0EA7 /* Assets.xcassets */,
 				48BEA701212FF625002B0EA7 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				48BEA6FB212FF61A002B0EA7 /* ViewController.m in Sources */,
 				48BEA706212FF625002B0EA7 /* main.m in Sources */,
 				48BEA6F8212FF61A002B0EA7 /* AppDelegate.m in Sources */,
+				48BEA72C21302622002B0EA7 /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
