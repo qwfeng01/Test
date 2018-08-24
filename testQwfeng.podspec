@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "testQwfeng"
-  s.version      = "0.0.1"
+  s.version      = "0.0.3"
   s.summary      = "testQwfeng is a tool for ios developer"
   s.description  = "testQwfeng can help ios developer do something for UI"
   s.homepage     = "https://github.com/qwfeng01/Test.git"
